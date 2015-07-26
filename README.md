@@ -8,7 +8,7 @@ This project use the dependency [tmdbsimple](https://github.com/celiao/tmdbsimpl
 To install it, run the following command
 
 ```
-    pip install 
+    pip install tmdbsimple
 ```
 
 Then run the file `entertaiment_center.py`, it will generate a html file and open the html file on a browser.
